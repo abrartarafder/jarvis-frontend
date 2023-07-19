@@ -197,13 +197,13 @@ img{
 
   @media (prefers-color-scheme: light) {
     .nav__menu {
-      background-color: var(--navbar-color-light);
+      background-color: white;
     }
   }
   
   @media (prefers-color-scheme: dark) {
     .nav__menu {
-      background-color: var(--navbar-color-dark);
+      background-color: rgb(0, 0, 0);
     }
 
 
