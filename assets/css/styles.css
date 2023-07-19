@@ -197,7 +197,7 @@ img{
 
   @media (prefers-color-scheme: light) {
     .nav__menu {
-      background-color: white;
+   background-color: rgb(0, 0, 0);
     }
   }
   
