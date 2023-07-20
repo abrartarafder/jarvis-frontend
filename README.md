@@ -24,5 +24,4 @@ Jarvis Linkedin page
 Brand Guidelines
 Photos
 
-## When
-Presentations will be 15 min long and run from 3:45 PM to 4:45 PM!
+
