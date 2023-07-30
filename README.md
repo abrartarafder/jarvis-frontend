@@ -1,4 +1,4 @@
-Hackathon Challenge: 
+Hackathon Challenge (WINNER 1ST PLACE 🥇 )
 
 ## What
 We challenge your teams to design and create a new and improved Jarvis “home” landing page, complete with a plan to drive web traffic to the site. Your team should look at our existing home landing page and can select content you feel is most relevant from any section of our site to design the ultimate homepage. 
